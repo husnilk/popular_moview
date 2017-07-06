@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>Sort By Popularity</item>
+        <item>Sort By Rating</item>
+    </string-array>
+</resources>

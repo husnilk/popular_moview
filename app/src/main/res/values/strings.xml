@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Moview</string>
+
+    <string name="sort_by_popularity_string">Sort By Popularity</string>
+    <string name="sort_by_rating_string">Sort By Rating</string>
+    <string name="error_message">Can\'t retrieve the data</string>
+    <string name="label_synopsis">Synopsis</string>
+</resources>
